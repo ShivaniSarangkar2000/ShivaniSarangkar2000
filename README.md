@@ -55,7 +55,7 @@ I love building web applications and learning new technologies every day.
 
 ## 👁️ Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/ShivaniSarangkar2000/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShivaniSarangkar2000)
 
 ---
 
