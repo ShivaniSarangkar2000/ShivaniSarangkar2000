@@ -50,11 +50,12 @@ I love building web applications and learning new technologies every day.
 
 ## 📊 GitHub Stats
 
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaniSarangkar&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaniSarangkar2000&show_icons=true&theme=radical)
+
 
 ## 👁️ Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/ShivaniSarangkar/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ShivaniSarangkar2000/count.svg)
 
 ---
 
